@@ -48,7 +48,7 @@ These are 20 deterministic, real-world constraints. They guarantee that the gene
 *   **Inflection Limits:** Tracking the exact zero-crossing of the 2nd derivative to manage Adverse Pressure Gradients and reflexed trailing edges for flying wings.
 
 <p align="center">
-  <img src="images/inflection .png" alt=" Inflection Limits" width="100%" style="max-width: 800px;">
+  <img src="images/inflection  .png" alt=" Inflection Limits" width="100%" style="max-width: 800px;">
 </p>
 
 
