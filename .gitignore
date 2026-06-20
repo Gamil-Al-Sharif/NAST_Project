@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Output Directories (Do not track user-generated airfoils!)
+NAST_Output/
+NAST_Test_Outputs/
+Outputs/
+
 # C extensions
 *.so
 
