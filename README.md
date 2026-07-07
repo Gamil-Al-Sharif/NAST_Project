@@ -54,7 +54,7 @@ The result is a **$C^2$-continuous, mathematically flawless coordinate array** r
 </div>
 <div align="center">
   <img src="docs/images/edges.png" width="48%" alt="Leading and Trailing Edges Constraints">
-  <img src="docs/images/ inflection.png" width="48%" alt="Inflection Limits">
+  <img src="docs/images/inflection .png" width="48%" alt="Inflection Limits">
 </div>
 
 ### 📊 Model Validation Against Real-World Airfoils
