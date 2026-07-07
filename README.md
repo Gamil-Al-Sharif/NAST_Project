@@ -179,29 +179,33 @@ To truly master the N.A.S.T. framework, explore our comprehensive Markdown docum
 
 ---
 
-
-## 👨‍💻 About the Developers
-
-<div align="center">
-  <table style="border-collapse: collapse; border: none; width: 100%;">
-    <tr>
-      <td align="center" width="50%" style="border: none;">
-        <h3>Gamil Abdullah Al-Sharif</h3>
-        <b>Mechanical Engineer & R&D Specialist</b><br>
-        <i>Sana'a, Yemen</i><br><br>
-        ✉️ <a href="mailto:mely104haja@gmail.com">mely104haja@gmail.com</a><br>
-        💼 <a href="https://linkedin.com/in/gamil-alsharif">LinkedIn Profile</a>
-      </td>
-      <td align="center" width="50%" style="border: none;">
-        <h3>Yhya Abdullah Al-Wazir</h3>
-        <b>Mechanical Engineer & R&D Specialist</b><br>
-        <i>Sana'a, Yemen</i><br><br>
-        ✉️ <a href="mailto:abdullahyhya141@gmail.com">abdullahyhya141@gmail.com</a><br>
-        🔬 <a href="https://researchgate.net/profile/Yhya-Abdullah-Al-Waze">ResearchGate Profile</a>
-      </td>
-    </tr>
-  </table>
+<span style="color: #9370DB;"><i class="fa-solid fa-user-astronaut"></i> 7. About the Developers</span>
+<div style="background-color: #ffffff; border: 1px solid #e2e8f0; padding: 25px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+<!-- Developer 1 Section -->
+<div style="margin-bottom: 25px; border-bottom: 1px dashed #e2e8f0; padding-bottom: 20px;">
+<h3 style="margin: 0 0 5px 0; color: #2c3e50;"><i class="fa-solid fa-id-badge" style="color: #9370DB;"></i> Gamil Abdullah Al-Sharif</h3>
+<p style="color: #7f8c8d; font-style: italic; margin: 0 0 15px 0; font-size: 0.95rem;">Mechanical Engineer & AI R&D Specialist | Sana'a, Yemen</p>
+<p style="margin: 0; color: #34495e; line-height: 1.6;">
+<i class="fa-solid fa-envelope" style="color: #7f8c8d; width: 20px;"></i> <strong>Email:</strong> <a href="mailto:mely104haja@gmail.com" style="color: #9370DB; text-decoration: none;">mely104haja@gmail.com</a><br>
+<i class="fa-brands fa-linkedin" style="color: #0077B5; width: 20px;"></i> <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/gamil-alsharif" target="_blank" style="color: #0077B5; text-decoration: none;">linkedin.com/in/gamil-alsharif</a>
+</p>
 </div>
+<!-- Developer 2 Section -->
+<div style="margin-bottom: 15px; padding-bottom: 10px;">
+<h3 style="margin: 0 0 5px 0; color: #2c3e50;"><i class="fa-solid fa-id-badge" style="color: #1E90FF;"></i> Yhya Abdullah Al-Wazir</h3>
+<p style="color: #7f8c8d; font-style: italic; margin: 0 0 15px 0; font-size: 0.95rem;">Mechanical Engineer & AI R&D Specialist | Sana'a, Yemen</p>
+<p style="margin: 0; color: #34495e; line-height: 1.6;">
+<i class="fa-solid fa-envelope" style="color: #7f8c8d; width: 20px;"></i> <strong>Email:</strong> <a href="mailto:abdullahyhya141@gmail.com" style="color: #1E90FF; text-decoration: none;">abdullahyhya141@gmail.com</a><br>
+<i class="fa-brands fa-researchgate" style="color: #00CCBB; width: 20px;"></i> <strong>ResearchGate:</strong> <a href="https://researchgate.net" target="_blank" style="color: #00CCBB; text-decoration: none;">researchgate.net/profile/Yhya-Abdullah-Al-Wazer</a>
+</p>
+</div>
+</div>
+<br>
+<div align="center" style="margin-top: 30px; color: #888; font-style: italic;">
+Built with passion for the advancement of computational fluid dynamics and deep generative architectures.<br><br>
+If you find N.A.S.T. useful, please consider giving it a star! ⭐
+</div>
+```
 
 <br>
 
