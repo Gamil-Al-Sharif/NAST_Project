@@ -8,7 +8,7 @@
 <div align="center">
   <img src="docs/images/nast_banner.png" alt="NAST Framework Banner" width="100%" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
 </div>
-
+ 
 <!-- FLEXBOX BADGES (Perfectly Spaced & Formatted) -->
 <div style="display: flex; justify-content: center; gap: 12px; margin-top: 15px; margin-bottom: 25px; flex-wrap: wrap;">
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
